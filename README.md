@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supriya_Jaiswal
-- 👀 I’m interested in Aritficial Intelligence,Web Development
+- 👀 I’m interested in Aritficial Intelligence,Machine learning, Web Development, Data Science
 - 🌱 I’m currently learning JavaScript and python
 - 📫 How to reach me jaiswalsupriya60@gmail.com
 - 😄 Pronouns: She
