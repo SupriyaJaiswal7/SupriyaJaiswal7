@@ -1,12 +1,33 @@
-- 👋 Hi, I’m Supriya_Jaiswal
-- 👀 I’m interested in Aritficial Intelligence,Machine learning, Web Development, Data Science
-- 🌱 I’m currently learning JavaScript and python
-- 📫 How to reach me jaiswalsupriya60@gmail.com
-- 😄 Pronouns: She
-- I am currently pursuing btech in computer science and bs in data science and applications
-  
+<h1 align="center">✨ Supriya Jaiswal ✨</h1>
+<p align="center">
+  <strong>B.Tech (IT) + B.S. (Data Science) • Python + DSA • Open-Source Contributor</strong>
+</p>
 
-<!---
-SupriyaJaiswal7/SupriyaJaiswal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌱 About Me  
+I’m building a strong foundation in **Python**, **DSA**, and **Git**, and contributing to open-source communities to grow as a real-world developer.
+
+---
+
+### 🔧 Tech Stack  
+- **Languages:** Python, JavaScript, C
+- **Skills:** DSA, Git & GitHub  
+- **Web:** HTML, CSS  
+- **Tools:** VS Code, Linux  
+
+---
+
+### 📌 Current Goals  
+- Open-source contributions  
+- Strengthen DSA fundamentals  
+- Improve problem-solving  
+- Build clean, structured projects  
+
+---
+
+### 📫 Connect with Me  
+- **Email:** jaiswalsupriya60@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/supriya-jaiswal-241b78279/
+
+
