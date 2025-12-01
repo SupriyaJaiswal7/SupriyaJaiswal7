@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SupriyaJaiswal7/SupriyaJaiswal7/blob/main/Register%20-%20Login.gif" alt="Supriya Banner" width="100%" />
+  <img src="https://github.com/SupriyaJaiswal7/SupriyaJaiswal7/blob/main/Register%20-%20Login.gif" alt="Supriya Banner" width="100%" style="height: 360px; object-fit: cover;/>
 </p>
 
 <h1 align="center">✨ Supriya Jaiswal ✨</h1>
