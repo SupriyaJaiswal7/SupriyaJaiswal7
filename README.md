@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SupriyaJaiswal7/SupriyaJaiswal7/blob/main/Register%20-%20Login.gif" alt="Supriya Banner" width="100%" />
+</p>
+
 <h1 align="center">✨ Supriya Jaiswal ✨</h1>
 <p align="center">
   <strong>B.Tech (IT) + B.S. (Data Science) • Python + DSA • Open-Source Contributor</strong>
