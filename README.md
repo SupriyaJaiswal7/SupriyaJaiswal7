@@ -6,11 +6,11 @@
 <h1 align="center">✨ Supriya Jaiswal ✨</h1>
 
 <p align="center">
-  <strong>B.Tech IT (CGPA 8.19) + IIT Madras BS Data Science • Python • Data Analytics • Open-Source Contributor</strong>
+  <strong>B.Tech IT (CGPA 8.14) + IIT Madras BS Data Science • Python • Data Analytics • Open-Source Contributor</strong>
 </p>
 
 <p align="center">
-  🎯 Actively seeking Data Analyst / Data Science internships — available from July 1, 2026
+  🎯 Actively seeking Data Analyst / Data Science internships 
 </p>
 
 ---
@@ -52,6 +52,24 @@ to build clean, data-driven projects and contribute to open-source communities.
   and window functions
 - 💻 **Open-Source:** Contributing clean,
   well-documented code to technical communities
+
+---
+
+
+### 🚀 Featured Project
+
+**Trekking Management Application**
+
+A database-backed web application built with **Flask, Flask-SQLAlchemy, SQLite, Bootstrap, and Jinja2**.
+
+- Role-based authentication for Admin, Staff, and Users
+- Trek CRUD operations
+- Trek approval and staff assignment
+- Booking, cancellation, and rebooking
+- Search and profile management
+- Admin, Staff, and User dashboards
+- Database relationships and business-logic validation
+- Overbooking prevention
 
 ---
 
